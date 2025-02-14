@@ -18,7 +18,7 @@
 
 <h3 align="left">Bot Commands</h3>
 <pre><code>/registration <Login> <Password> <Email></code></pre>
-
+<img src="https://github.com/user-attachments/assets/f629edcb-3c35-4902-be87-1ed3fecc7a8c"/>
 <h2 align="left">Установка:</h2>
 <h4 align="left">Проинициализируй зависимости в обеих папках:</h4>
 <pre><code>npm install</code></pre>
